@@ -1,0 +1,23 @@
+Tuen Mun:  Singapore(67), Mumbai(23), Suez(15), Ashdod(44)
+Singapore:
+Mumbai:
+Suez:  Tuen Mun(62), Singapore(65), Mumbai(93), Ashdod(23), Hong Kong(68), Los Angeles(85), Dubai(52)
+Ashdod:  Tuen Mun(99), Singapore(54), Hong Kong(70), Dubai(34), Shanghai(37)
+Hong Kong:  Tuen Mun(54), Singapore(45), Suez(57), Ashdod(49), Los Angeles(83), Rotterdam(52), Dubai(23)
+Los Angeles:
+Rotterdam:  Tuen Mun(48), Singapore(92), Ashdod(18), Hong Kong(68), Los Angeles(75), Dubai(48)
+Dubai:
+Shanghai:
+
+Tuen Mun:  Singapore(7400), Ashdod(2914), Hong Kong(4357), Rotterdam(4332)
+Singapore:  Tuen Mun(1462), Mumbai(9990), Suez(4347), Los Angeles(4340), Dubai(4347)
+Mumbai:  Tuen Mun(4358), Suez(6645)
+Suez:  Ashdod(1260), Dubai(1451)
+Ashdod:  Tuen Mun(1456), Singapore(5804), Mumbai(5781), Hong Kong(1451)
+Hong Kong:  Singapore(2908), Los Angeles(2921)
+Los Angeles:  Tuen Mun(5776), Dubai(2893)
+Rotterdam:  Singapore(5806), Dubai(4357)
+Dubai:  Ashdod(2913), Shanghai(4358)
+Shanghai:  Hong Kong(1457)
+
+
