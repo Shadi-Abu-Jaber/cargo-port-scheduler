@@ -28,19 +28,3 @@ The assignment was to model a simplified **cargo shipping system** between ports
   - `CustomException` – used for reporting invalid input or inconsistent state.
   - `main.cpp` – handles CLI flags and ties everything together.
 
-### How to build & run
-From this directory:
-
-```bash
-g++ -std=c++17 -Wall -Wextra -pedantic src/*.cpp -o cargo_system
-./cargo_system -i <infile1> [<infile2> ...] [-o <outfile>]
-```
-
-Example using the included test data:
-
-```bash
-./cargo_system -i IO-1/input -o output.dat
-```
-
-You can swap in the files from `IO-2/` to try larger or different scenarios.
-
